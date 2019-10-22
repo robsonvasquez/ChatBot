@@ -14,6 +14,7 @@ O código possui 2 instâncias:
 -> Cliente - Instância que executarão clientes que comunicam com o servidor - python3 main.py
 
 >>> Comandos <<<
+
 • Nível básico: \autores = retorna o valor de uma variável constante com o nome dos integrantes do grupo que o desenvolveu.
 
 • Nível intermediário: \trendmusic = consulta o trending topics do YouTube e retorna o nome da primeira da lista (mais popular) e o link para o Cliente.
